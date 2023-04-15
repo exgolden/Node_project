@@ -12,11 +12,6 @@
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
     </a>
 </p>
-El proyecto consiste en una rest API con FastAPI implementando autenticacion con JWT, esta consta de varias rutas:
-
-
-
-
 El proyecto consiste en una rest API con node js. Esta consta de varias rutas:
 <table style="width:100%">
     <tr>
